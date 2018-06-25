@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="jar/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jar/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="jar/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="jar/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="jar/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="jar/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="jar/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="jar/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="jar/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="jar/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="Reportjar/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="Reportjar/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="Reportjar/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="Reportjar/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="Reportjar/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="Reportjar/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="Reportjar/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="Reportjar/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="Reportjar/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="Reportjar/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="Reportjar/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="Reportjar/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="Reportjar/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="Reportjar/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="Reportjar/testng-6.9.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
